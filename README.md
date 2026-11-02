@@ -1,5 +1,5 @@
-### Hey, I'm Vojislav 👋
+### Hi, I'm Vojislav 👋
 
-I'm a software engineer with 10+ years of experience building SaaS platforms, internal tools, and custom business software.
+Senior Laravel engineer from Serbia. I build SaaS products, internal tools and custom business software.
 
-[vojislavd.com](https://vojislavd.com)
+[vojislavd.com](https://vojislavd.com) · [LinkedIn](https://www.linkedin.com/in/vojislav-dragicevic)
